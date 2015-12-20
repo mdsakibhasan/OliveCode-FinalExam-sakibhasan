@@ -1,0 +1,135 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin: 0 auto;
+	background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/background.jpg");
+	background-repeat: no-repeat;
+	position: relative;
+}
+.oneimg{
+	position: relative;
+	left: 215px;
+}
+.twoimg{
+	position: absolute;
+    top: 0%;
+    left: 315px;
+}
+.threeimg{
+	width: 250px;
+    height: 250px;
+    box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/threeimg.jpg");
+    background-size: 294px 253px;
+}
+.fourimg{
+	width: 175px;
+    height: 175px;
+    box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 560px;
+    left: 387px;
+    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fourimg.jpg");
+    background-size: 198px 180px;
+}
+.yellow-box-1{
+	width:170px;
+	height: 170px;
+	background-color: #f0ff00;
+	box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
+	border-radius: 50%;
+	position: absolute;
+	top: 390px;
+    right: 560px;
+}
+.yellow-box-1-content{
+	position: absolute;
+    top: 40px;
+    left: 10px;
+    text-align: center;
+    font-size: 17px;
+}
+.yellow-box-1 > img{
+	position: absolute;
+    top: 120px;
+    left: 77px;
+    outline: 1px solid transparent;
+}
+.yellow-box-2{
+	width:170px;
+	height: 170px;
+	background-color: #f0ff00;
+	box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
+	border-radius: 50%;
+	position: absolute;
+	top: 330px;
+    right: 330px;
+}
+.yellow-box-2-content{
+	position: absolute;
+    top: 40px;
+    left: 10px;
+    text-align: center;
+    font-size: 17px;
+}
+.yellow-box-2 > img{
+	position: absolute;
+    top: 120px;
+    left: 77px;
+    outline: 1px solid transparent;
+}
+.fiveimg{
+	width: 220px;
+    height: 220px;
+    box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 750px;
+    left: 637px;
+    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
+    background-size: 250px 215px;
+    z-index: 1;
+}
+.siximg{
+	width: 190px;
+    height: 190px;
+    box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 855px;
+    left: 400px;
+    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/siximg.jpg");
+    background-size: 410px 720px;
+}
+.sevenimg{
+	width: 235px;
+    height: 235px;
+    box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 1050px;
+    right: 590px;
+    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/sevenimg.jpg");
+    background-size: 475px 325px;
+}
+.fig-one-img-one{
+	position: relative;
+	min-height: 1200px;
+	margin-left: 845px;
+	margin-top: 325px;
+}
+.fig-one-img-1{
+	position: absolute;
+	margin-top: -443px;
+}
+.fig-one-img-2{
+	position: absolute;
+}
+.fig-one-img-3{
+	position: absolute;
+	margin-top: 333px;
+}
