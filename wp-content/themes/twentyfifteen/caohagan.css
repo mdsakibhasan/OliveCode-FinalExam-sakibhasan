@@ -7,6 +7,7 @@ body{
 	background-position: center top;
 	font-size: 13px;
     font-family: serif;
+    background-repeat: repeat-y;
 }
 .oneimg{
 	position: relative;
@@ -17,16 +18,17 @@ body{
     top: 0%;
     left: 315px;
 }
-.threeimg{
+#threeimg{
 	width: 250px;
     height: 250px;
     box-shadow: rgba(0, 0, 0, 0.498039) 0px 0px 20px;
     border-radius: 50%;
     position: absolute;
     top: 300px;
-    left: 300px;
+    left: 297px;
     background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/threeimg.jpg");
-    background-size: 294px 253px;
+    background-size: 374px 253px;
+    background-position: center top;
 }
 .fourimg{
 	width: 175px;
@@ -37,7 +39,8 @@ body{
     top: 560px;
     left: 387px;
     background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fourimg.jpg");
-    background-size: 198px 180px;
+    background-size: 240px 180px;
+    background-position: center top;
 }
 .yellow-box-1{
 	width:170px;
@@ -85,6 +88,35 @@ body{
     left: 77px;
     outline: 1px solid transparent;
 }
+.yellow-box-1-content-title-1{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-top: -24px;
+}
+.yellow-box-1-content-title-second{
+	font-weight: bold;
+    text-align: left;
+    font-size: 11px;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+.yellow-box-1-content-title-2{
+	font-size: 13px;
+    text-align: left;
+    padding-left: 10px;
+    line-height: 14px;
+}
+.yellow-box-2-content-title-1{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 0px;
+    margin-top: -24px;
+}
+.yellow-box-1:hover,.yellow-box-2:hover{
+	color:#933;
+	cursor: pointer;
+}
 .fiveimg{
 	width: 220px;
     height: 220px;
@@ -94,8 +126,9 @@ body{
     top: 750px;
     left: 637px;
     background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
-    background-size: 250px 215px;
+    background-size: 311px 215px;
     z-index: 1;
+    background-position: center top;
 }
 .siximg{
 	width: 190px;
@@ -192,6 +225,15 @@ body{
     text-align: j;
     text-align: justify;
 }
+.fig-one-img-content-3 > a{
+	margin-left: 5px;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+.fig-one-img-content-3 > a:hover{
+	color:#888888;
+}
 .fig01img{
 	position: absolute;
     margin-top: -420px;
@@ -209,6 +251,51 @@ body{
 	min-height: 605px;
 	margin-top: -702px;
     margin-left: 251px;
+}
+.fig-two-img-title-1{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: 14%;
+    top: -33%;
+    font-family: tahoma;
+    font-size: 22px;
+}
+.fig-two-img-title-2{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: 3%;
+    top: -25%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    width: 460px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+.fig-two-img-content-1{
+	position: absolute;
+    z-index: 1;
+    color: black;
+    left: 4%;
+    top: -9%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    font-size: 11.5px;
+    line-height: 23px;
+    width: 445px;
+    text-align: j;
+    text-align: justify;
+}
+.fig-two-img-content-1 > a{
+	margin-left: 5px;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+.fig-two-img-content-1 > a:hover{
+	color:#888888;
 }
 .fig-two-img-1{
 	position: absolute;
@@ -246,6 +333,66 @@ body{
     margin-top: -238px;
     margin-left: 176px;
 }
+.fig-three-img-title-1{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: 11%;
+    top: -30%;
+    font-weight: 13px;
+    font-family: tahoma;
+    font-size: 22px;
+}
+.fig-three-img-title-2{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: 9%;
+    top: -24%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    width: 293px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+.fig-three-img-content-1{
+	position: absolute;
+    z-index: 1;
+    color: black;
+    left: 5%;
+    top: -10%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    font-size: 13px;
+    line-height: 23px;
+    width: 334px;
+    text-align: j;
+    text-align: justify;
+}
+.fig-three-img-content-2{
+	position: absolute;
+    z-index: 1;
+    color: black;
+    left: 5%;
+    top: 11%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    font-size: 13px;
+    line-height: 23px;
+    width: 324px;
+    text-align: j;
+    text-align: justify;
+}
+.fig-three-img-content-2 > a{
+	margin-left: 5px;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+}
+.fig-three-img-content-2 > a:hover{
+	color:#888888;
+}
 .fig-three-img-2{
 	position: absolute;
 }
@@ -280,6 +427,64 @@ body{
 	min-height: 650px;
 	margin-left: 250px;
     margin-top: -366px;
+}
+.fig-four-img-title-1{
+	position: absolute;
+    z-index: 1;
+    color: black;
+    left: 16%;
+    top: -19%;
+    font-family: tahoma;
+    font-size: 22px;
+}
+.fig-four-img-title-2{
+	position: absolute;
+    z-index: 1;
+    color: black;
+    left: 5%;
+    top: -12%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    width: 405px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+}
+.fig-four-img-content-1{
+	position: absolute;
+    z-index: 1;
+    color: black;
+    left: 3%;
+    top: -3%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    font-size: 13px;
+    line-height: 23px;
+    width: 474px;
+    text-align: j;
+    text-align: justify;
+}
+.fig-four-img-content-2{
+	position: absolute;
+    z-index: 1;
+    color: black;
+    left: 3%;
+    top: 26%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    font-size: 13px;
+    line-height: 23px;
+    width: 474px;
+    text-align: justify;
+}
+.fig-four-img-content-2 > a{
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 14px;
+}
+.fig-four-img-content-2 > a:hover{
+	color:#888888;
 }
 .fig-four-img-1{
 	position: absolute;
@@ -348,6 +553,59 @@ body{
 	min-height: 640px;
 	margin-left: 755px;
     margin-top: 54px;
+}
+.fig-five-img-title-1{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: 21%;
+    top: -30%;
+    font-family: tahoma;
+    font-size: 22px;
+}
+.fig-five-img-title-2{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: -18%;
+    top: -23%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    width: 405px;
+    font-size: 14px;
+    text-align: center;
+}
+.fig-five-img-title-3{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: -9%;
+    top: -20%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    width: 405px;
+    font-size: 16px;
+    text-align: center;
+}
+.fig-five-img-content-1{
+	position: absolute;
+    z-index: 1;
+    color: white;
+    left: 5%;
+    top: -12%;
+    font-family: tahoma;
+    word-wrap: break-word;
+    font-size: 13px;
+    line-height: 23px;
+    width: 334px;
+    text-align: justify;
+}
+.fig-five-img-content-1 > a{
+	margin-left: 107px;
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+	font-size: 15px;
 }
 .fig-five-img-1{
 	position: absolute;
@@ -421,4 +679,10 @@ body{
     left: 559px;
     bottom: 50px;
     background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho2img.png");
+}
+#btn1{
+	position: fixed;
+	top: 1px;
+	right: 3.5%;
+	background: transparent;
 }
