@@ -1,0 +1,79 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin: 0 auto;
+	overflow-y: scroll;
+}
+section{
+	margin: 1% 30% 5% 19%;
+	position: absolute;
+}
+.bag-img{
+	width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 0.5%;
+    opacity: 0.035;
+    /* overflow-x: scroll; */
+}
+.yellow-box-1-page-title-1{
+	font-size: 37px;
+    font-family: tahoma;
+    font-style: normal;
+}
+.hrs{
+	width: 804px;
+    margin-top: -5px;
+}
+.yellow-box-1-page-title-2{
+	font-size: 12px;
+}
+.yellow-box-1-page-1-title-3{
+	font-size: 19px;
+    font-weight: bold;
+    width: 550px;
+}
+.yellow-box-1-page-1-content-1,
+.yellow-box-1-page-1-content-4,
+.yellow-box-1-page-1-content-6,
+.yellow-box-1-page-1-content-7{
+	margin-top: 36px;
+    font-size: 18px;
+}
+.yellow-box-1-page-1-content-2{
+    font-size: 18px;
+}
+.yellow-box-1-page-1-content-3,
+.yellow-box-1-page-1-content-5{
+	margin-top: 40px;
+    font-size: 16px;
+    font-style: italic;
+}
+.yellow-box-1-page-content-9{
+	margin-top: 36px;
+    font-size: 15.5px;
+}
+.yellow-box-1-page-1-link-1{
+	font-size: 16px;
+    margin-top: 10%;
+    margin-left: 29%;
+}
+.yellow-box-1-page-1-link-1 >a, 
+.yellow-box-1-page-1-link-2 >a{
+	color: #C00;
+	font-size: 14px;
+	text-decoration: none;
+}
+.yellow-box-1-page-1-link-1 >a:hover, 
+.yellow-box-1-page-1-link-2 >a:hover{
+	color:#F90;
+}
+.yellow-box-1-page-1-link-2{
+	font-size: 16px;
+    margin-left: 55%;
+    margin-top: -3.2%;
+}
+.cross-img{
+	position: fixed;
+	top: 0px;
+	right: 3%;
+}

@@ -11,7 +11,7 @@ Template Name: caohagan
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/caohagan.css" type="text/css">
 </head>
 <body>
-	<button id="btn1"><img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/cross.png" alt="yellow-box-2"></button> 
+	<!--<button id="btn1"></button>  --> 
 	<section>
 		<img class="oneimg" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/oneimg.png" alt="">
 		<img class="twoimg" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/twoimg.png" alt="">
@@ -19,24 +19,23 @@ Template Name: caohagan
 		<div class="fourimg"></div>
 		<div class="yellow-box-1">
 			<div class="yellow-box-1-content">
-				<div class="yellow-box-1-content-title-1">
-				
-					<a href="http://sakib.localhost/?page_id=136" id="demo">
-					<?php $post_id = 107; 
-					$queried_post = get_post($post_id); 
-					echo $queried_post->post_content;?>
-					</a>
-				</div>
-				<div class="yellow-box-1-content-title-second">
-					<?php $post_id = 118; 
-					$queried_post = get_post($post_id); 
-					echo $queried_post->post_content;?>
-				</div>
-				<div class="yellow-box-1-content-title-2">
-				<a hrf="coahagan.php">	<?php $post_id = 113; 
-					$queried_post = get_post($post_id); 
-					echo $queried_post->post_content;?> </a>
-				</div>
+				<a href="http://sakib.localhost/?page_id=143" id="demo">
+					<div class="yellow-box-1-content-title-1">
+						<?php $post_id = 107; 
+						$queried_post = get_post($post_id); 
+						echo $queried_post->post_content;?>
+					</div>
+					<div class="yellow-box-1-content-title-second">
+						<?php $post_id = 118; 
+						$queried_post = get_post($post_id); 
+						echo $queried_post->post_content;?>
+					</div>
+					<div class="yellow-box-1-content-title-2">
+						<?php $post_id = 113; 
+						$queried_post = get_post($post_id); 
+						echo $queried_post->post_content;?>
+					</div>
+				</a>
 			</div>
 			<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png" alt="yellow-box-1">
 		</div>
@@ -302,7 +301,7 @@ Template Name: caohagan
 				<?php $post_id = 101; 
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/>
-				<a href="#">
+				<a href="http://sakib.localhost/?page_id=143">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow-blue.png"/ style="margin-top:3px;">
 						<?php $post_id = 103; 
 						$queried_post = get_post($post_id); 
