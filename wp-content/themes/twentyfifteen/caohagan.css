@@ -113,6 +113,11 @@ body{
     margin-left: 0px;
     margin-top: -24px;
 }
+.yellow-box-1-content>a,
+.yellow-box-2-content>a{
+	color: black;
+	text-decoration: none;
+}
 .yellow-box-1:hover,.yellow-box-2:hover,.yellow-box-1-content > a:hover, .yellow-box-2-content > a:hover{
 	color:#933;
 	cursor: pointer;

@@ -1,0 +1,151 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin: 0 auto;
+	overflow-y: scroll;
+}
+section{
+	margin: 1% 30% 5% 19%;
+	position: absolute;
+}
+.bag-img{
+	width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 0.5%;
+    opacity: 0.035;
+    /* overflow-x: scroll; */
+}
+.fig-1-page-1-titel-1{
+	font-size: 36px;
+    font-family: tahoma;
+    font-style: normal;
+}
+.hrs{
+	width: 804px;
+    margin-top: -5px;
+}
+.fig-1-page-1-alllink-1>a{
+	text-decoration: none;
+	color: black;
+}
+.fig-1-page-1-alllink-2{
+	margin-left: 170px;
+	margin-top: -25px;
+}
+.fig-1-page-1-alllink-2>a{
+	text-decoration: none;
+	color: black;
+	background: yellow;
+}
+.fig-1-page-1-alllink-3{
+	margin-left: 266px;
+	margin-top: -25px;
+}
+.fig-1-page-1-alllink-3>a{
+	color: black;
+	text-decoration: none;
+}
+.fig-1-page-1-alllink-4{
+	margin-left: 415px;
+	margin-top: -25px;	
+}
+.fig-1-page-1-alllink-4>a{
+	color: black;
+	text-decoration: none;
+}
+.fig-1-page-1-alllink-5{
+	margin-left: 545px;
+	margin-top: -25px;	
+}
+.fig-1-page-1-alllink-5>a{
+	color: black;
+	text-decoration: none;
+}
+.fig-1-page-1-alllink-6{
+	margin-left: 690px;
+	margin-top: -25px;	
+}
+.fig-1-page-1-alllink-6>a{
+	color: black;
+	text-decoration: none;
+}
+.fig-1-page-2-titel-2{
+	font-size: 20px;
+	font-weight: bold;	
+}
+.fig-1-page-2-titel-3-left,
+.fig-1-page-2-titel-4-left,
+.fig-1-page-2-titel-5-left,
+.fig-1-page-2-titel-6-left,
+.fig-1-page-2-titel-7-left,
+.fig-1-page-2-titel-8-left,
+.fig-1-page-2-titel-9-left,
+.fig-1-page-2-titel-10-left,
+.fig-1-page-2-titel-11-left,
+.fig-1-page-2-titel-12-left,
+.fig-1-page-2-titel-13-left,
+.fig-1-page-2-titel-14-left,
+.fig-1-page-2-titel-15-left,
+.fig-1-page-2-titel-16-left,
+.fig-1-page-2-titel-17-left,
+.fig-1-page-2-titel-18-left,
+.fig-1-page-2-titel-19-left,
+.fig-1-page-2-titel-20-left,
+.fig-1-page-2-titel-21-left,
+.fig-1-page-2-titel-22-left,
+.fig-1-page-2-titel-23-left,
+.fig-1-page-2-titel-24-left,
+.fig-1-page-2-titel-25-left,
+.fig-1-page-2-titel-26-left,
+.fig-1-page-2-titel-27-left,
+.fig-1-page-2-titel-28-left,
+.fig-1-page-2-titel-29-left,
+.fig-1-page-2-titel-30-left,
+.fig-1-page-2-titel-31-left{
+	font-size: 13.5px;
+	font-weight: bold;
+}
+.fig-1-page-2-titel-3-right,
+.fig-1-page-2-titel-4-right,
+.fig-1-page-2-titel-5-right,
+.fig-1-page-2-titel-6-right,
+.fig-1-page-2-titel-7-right,
+.fig-1-page-2-titel-8-right,
+.fig-1-page-2-titel-9-right,
+.fig-1-page-2-titel-10-right,
+.fig-1-page-2-titel-11-right,
+.fig-1-page-2-titel-12-right,
+.fig-1-page-2-titel-13-right,
+.fig-1-page-2-titel-14-right,
+.fig-1-page-2-titel-15-right,
+.fig-1-page-2-titel-16-right,
+.fig-1-page-2-titel-17-right,
+.fig-1-page-2-titel-18-right,
+.fig-1-page-2-titel-19-right,
+.fig-1-page-2-titel-20-right,
+.fig-1-page-2-titel-21-right,
+.fig-1-page-2-titel-22-right,
+.fig-1-page-2-titel-23-right,
+.fig-1-page-2-titel-24-right,
+.fig-1-page-2-titel-25-right,
+.fig-1-page-2-titel-26-right,
+.fig-1-page-2-titel-27-right,
+.fig-1-page-2-titel-28-right,
+.fig-1-page-2-titel-29-right,
+.fig-1-page-2-titel-30-right,
+.fig-1-page-2-titel-31-right{
+	font-size: 13px;
+	margin-left: 180px;
+	margin-top: -24px;
+}
+
+
+
+
+
+
+.cross-img{
+	position: fixed;
+	top: 0px;
+	right: 3%;
+}

@@ -1,0 +1,110 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin: 0 auto;
+	overflow-y: scroll;
+}
+section{
+	margin: 1% 30% 5% 19%;
+	position: absolute;
+}
+.bag-img{
+	width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 0.5%;
+    opacity: 0.035;
+    /* overflow-x: scroll; */
+}
+.yellow-box-2-page-1-title-1{
+	font-size: 19.5px;
+    font-style: normal;
+    font-weight: bold;
+}
+.yellow-box-2-page-1-title-2{
+	font-size: 14px;
+    font-style: normal;
+    margin-top: 42px;
+}
+.hrs{
+	width: 804px;
+    margin-top: -5px;
+}
+.hrs1{
+	width: 450px;
+    margin-top: -5px;
+    margin-right: 50;
+    margin-left: 1px;
+}
+.yellow-box-2-page-1-title-3{
+	font-size: 14px;
+}
+.yellow-box-2-page-1-title-4,
+.yellow-box-2-page-1-title-6,
+.yellow-box-2-page-1-title-8,
+.yellow-box-2-page-1-title-10,
+.yellow-box-2-page-1-title-14,
+.yellow-box-2-page-1-title-16,
+.yellow-box-2-page-1-title-17,
+.yellow-box-2-page-1-title-19,
+.yellow-box-2-page-1-title-21,
+.yellow-box-2-page-1-title-23,
+.yellow-box-2-page-1-title-26{
+	font-size: 14px;
+	font-weight: bold;
+}
+.yellow-box-2-page-1-title-5,
+.yellow-box-2-page-1-title-7,
+.yellow-box-2-page-1-title-9,
+.yellow-box-2-page-1-title-11,
+.yellow-box-2-page-1-title-13,
+.yellow-box-2-page-1-title-15,
+.yellow-box-2-page-1-title-18,
+.yellow-box-2-page-1-title-20,
+.yellow-box-2-page-1-title-22,
+.yellow-box-2-page-1-title-24,
+.yellow-box-2-page-1-title-25{
+	font-size: 13.5px;
+}
+.yellow-box-2-page-1-title-14{
+	font-size: 13px;
+
+}
+.yellow-box-2-page-1-title-14 >a{
+	color: #C00;
+	text-decoration: none;
+	font-size: 12px;
+}
+.yellow-box-2-page-1-title-14>a:hover{
+	color: #F90;
+}
+.yellow-box-2-page-1-title-24 >a{
+	color: #C00;
+	text-decoration: none;
+	font-size: 12px;
+}
+.yellow-box-2-page-1-title-24>a:hover{
+	color: #F90;
+	cursor: pointer;
+}
+.last-link>a{
+	color: #C00;
+	text-decoration: none;
+	font-size: 12px;
+}
+.last-link>a:hover{
+	color: #F90;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+.cross-img{
+	position: fixed;
+	top: 0px;
+	right: 3%;
+}

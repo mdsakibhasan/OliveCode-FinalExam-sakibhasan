@@ -41,21 +41,23 @@ Template Name: caohagan
 		</div>
 		<div class="yellow-box-2">
 			<div class="yellow-box-2-content">
-				<div class="yellow-box-2-content-title-1">
-					<?php $post_id = 109; 
-					$queried_post = get_post($post_id); 
-					echo $queried_post->post_content;?>
-				</div>
-				<div class="yellow-box-1-content-title-second">
-					<?php $post_id = 118; 
-					$queried_post = get_post($post_id); 
-					echo $queried_post->post_content;?>
-				</div>
-				<div class="yellow-box-1-content-title-2">
-					<?php $post_id = 111; 
-					$queried_post = get_post($post_id); 
-					echo $queried_post->post_content;?>
-				</div>
+				<a href="http://sakib.localhost/?page_id=286" id="demo">
+					<div class="yellow-box-2-content-title-1">
+						<?php $post_id = 109; 
+						$queried_post = get_post($post_id); 
+						echo $queried_post->post_content;?>
+					</div>
+					<div class="yellow-box-1-content-title-second">
+						<?php $post_id = 118; 
+						$queried_post = get_post($post_id); 
+						echo $queried_post->post_content;?>
+					</div>
+					<div class="yellow-box-1-content-title-2">
+						<?php $post_id = 111; 
+						$queried_post = get_post($post_id); 
+						echo $queried_post->post_content;?>
+					</div>
+				</a>
 			</div>
 			<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow2.png" alt="yellow-box-2">
 		</div>
@@ -88,37 +90,37 @@ Template Name: caohagan
 				<?php $post_id = 30; 
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/><hr>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=356" >
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 32; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=374">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 36; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=510">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 38; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=573">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 40; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=627">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 42; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=637">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 44; 
 						$queried_post = get_post($post_id); 
@@ -144,19 +146,19 @@ Template Name: caohagan
 				<?php $post_id = 51; 
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/><hr>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=691">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 53; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=712">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 55; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=741">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 57; 
 						$queried_post = get_post($post_id); 
@@ -253,19 +255,19 @@ Template Name: caohagan
 				<?php $post_id = 86; 
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/></br><hr><br/>
-				<a href="#">
+					<a href="http://sakib.localhost/?page_id=745">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 89; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=827">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 91; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=843">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 92; 
 						$queried_post = get_post($post_id); 

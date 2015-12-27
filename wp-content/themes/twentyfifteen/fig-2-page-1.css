@@ -1,0 +1,84 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin: 0 auto;
+	overflow-y: scroll;
+}
+section{
+	margin: 1% 30% 5% 19%;
+	position: absolute;
+}
+.bag-img{
+	width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 0.5%;
+    opacity: 0.035;
+    /* overflow-x: scroll; */
+}
+.fig-2-page-1-titel-1{
+	font-size: 36px;
+    font-family: tahoma;
+    font-style: normal;
+}
+.hrs{
+	width: 804px;
+    margin-top: -5px;
+}
+.fig-1-page-1-alllink-1>a{
+	text-decoration: none;
+	color: black;
+	background: yellow;
+	font-weight: bold;
+}
+.fig-1-page-1-alllink-2{
+	margin-left: 170px;
+	margin-top: -25px;
+}
+.fig-1-page-1-alllink-2>a{
+	color: black;
+    text-decoration: none;
+    margin-left: -55px;
+    font-weight: bold;
+}
+.fig-1-page-1-alllink-3{
+	margin-left: 266px;
+	margin-top: -25px;
+}
+.fig-1-page-1-alllink-3>a{
+	color: black;
+	text-decoration: none;
+	margin-left: 37px;
+	font-weight: bold;
+}
+.fig-1-page-1-titel-2{
+	font-size: 19px;
+	font-weight: bold;
+}
+.fig-2-page-1-titel-3,
+.fig-2-page-1-titel-4,
+.fig-2-page-1-titel-5{
+	font-size: 13px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cross-img{
+	position: fixed;
+	top: 0px;
+	right: 3%;
+}

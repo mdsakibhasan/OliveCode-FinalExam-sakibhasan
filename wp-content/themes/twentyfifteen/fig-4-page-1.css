@@ -1,0 +1,110 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin: 0 auto;
+	overflow-y: scroll;
+}
+section{
+	margin: 1% 30% 5% 19%;
+	position: absolute;
+}
+.bag-img{
+	width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 0.5%;
+    opacity: 0.035;
+    /* overflow-x: scroll; */
+}
+.fig-2-page-1-titel-1{
+	font-size: 36px;
+    font-family: tahoma;
+    font-style: normal;
+}
+.hrs{
+	width: 804px;
+    margin-top: -5px;
+}
+.fig-1-page-1-alllink-1>a{
+	text-decoration: none;
+	color: black;
+	background: yellow;
+	font-weight: bold;
+}
+.fig-4-page-1-alllink-2{
+	margin-left: 170px;
+	margin-top: -25px;
+}
+.fig-4-page-1-alllink-2>a{
+	color: black;
+    text-decoration: none;
+    margin-left: 40px;
+    font-weight: bold;
+}
+.fig-1-page-1-alllink-3{
+	margin-left: 266px;
+	margin-top: -25px;
+}
+.fig-1-page-1-alllink-3>a{
+	color: black;
+	text-decoration: none;
+	margin-left: 149px;
+	font-weight: bold;
+}
+.fig-1-page-1-titel-2{
+	font-size: 19px;
+	font-weight: bold;
+}
+.cross-img{
+	position: fixed;
+	top: 0px;
+	right: 3%;
+}
+.fig-1-page-1-titel-3{
+	font-size: 13.5px;
+    margin-top: -432px;
+    margin-left: 317px;
+}
+.fig-1-page-1-titel-4,
+.fig-1-page-1-titel-5,
+.fig-1-page-1-titel-6{
+	font-size: 13.5px;
+}
+.fig-1-page-1-titel-7{
+	font-size: 13.5px;
+    margin-left: 180px;
+    margin-top: -228px;
+}
+.fig-1-page-1-titel-8{
+	font-size: 17.5px;
+	font-weight: bold;
+}
+.fig-1-page-1-titel-9,
+.fig-1-page-1-titel-10,
+.fig-1-page-1-titel-11,
+.fig-1-page-1-titel-12,
+.fig-1-page-1-titel-13,
+.fig-1-page-1-titel-14,
+.fig-1-page-1-titel-15,
+.fig-1-page-1-titel-16,
+.fig-1-page-1-titel-17,
+.fig-1-page-1-titel-18,
+.fig-1-page-1-titel-19{
+	font-size: 15px;
+	font-weight: bold;
+}
+.fig-1-page-1-titel-9-right,
+.fig-1-page-1-titel-10-right,
+.fig-1-page-1-titel-11-right,
+.fig-1-page-1-titel-12-right,
+.fig-1-page-1-titel-13-right,
+.fig-1-page-1-titel-14-right,
+.fig-1-page-1-titel-15-right,
+.fig-1-page-1-titel-16-right,
+.fig-1-page-1-titel-17-right,
+.fig-1-page-1-titel-18-right,
+.fig-1-page-1-titel-19-right{
+	margin-left: 170px;
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: -25px;
+}
