@@ -6,6 +6,7 @@ body{
 section{
 	margin: 1% 30% 5% 19%;
 	position: absolute;
+	margin-top: 50px;
 }
 .bag-img{
 	width: 100%;
@@ -13,7 +14,6 @@ section{
     position: fixed;
     opacity: 0.5%;
     opacity: 0.035;
-    /* overflow-x: scroll; */
 }
 .fig-2-page-1-titel-1{
 	font-size: 36px;
@@ -52,6 +52,27 @@ section{
 }
 .fig-1-page-1-titel-2{
 	font-size: 19px;
+	font-weight: bold;
+}
+.fig-1-page-1-titel-3{
+	font-size: 14.5px;
+    margin-left: 306px;
+    margin-top: -230px;
+}
+.fig-1-page-1-titel-4,
+.fig-1-page-1-titel-5{
+	font-size: 13.5px;
+}
+.fig-1-page-1-titel-4>a{
+	font-size: 13.5px;
+	color:#C00;
+}
+.fig-1-page-1-titel-4>a:hover{
+	color:#F90;
+}
+.fig-1-page-1-titel-6,
+.fig-1-page-1-titel-7{
+	font-size: 13.5px;
 	font-weight: bold;
 }
 .cross-img{

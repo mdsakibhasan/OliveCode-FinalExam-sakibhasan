@@ -6,6 +6,7 @@ body{
 section{
 	margin: 1% 30% 5% 19%;
 	position: absolute;
+	margin-top: 50px;
 }
 .bag-img{
 	width: 100%;
@@ -13,7 +14,6 @@ section{
     position: fixed;
     opacity: 0.5%;
     opacity: 0.035;
-    /* overflow-x: scroll; */
 }
 .yellow-box-1-page-title-1{
 	font-size: 37px;

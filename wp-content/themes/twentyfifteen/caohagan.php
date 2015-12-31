@@ -7,16 +7,18 @@ Template Name: caohagan
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>www.caohagan.com</title>
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/caohagan.css" type="text/css">
 </head>
 <body>
-	<!--<button id="btn1"></button>  --> 
 	<section>
+		<!--.. here is start my body section .. -->
 		<img class="oneimg" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/oneimg.png" alt="">
 		<img class="twoimg" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/twoimg.png" alt="">
 		<div id="threeimg"></div>
 		<div class="fourimg"></div>
+		<!-- here is yellow box 1 html -->
 		<div class="yellow-box-1">
 			<div class="yellow-box-1-content">
 				<a href="http://sakib.localhost/?page_id=143" id="demo">
@@ -39,9 +41,10 @@ Template Name: caohagan
 			</div>
 			<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png" alt="yellow-box-1">
 		</div>
+		<!-- here is yellow box 2 html -->
 		<div class="yellow-box-2">
 			<div class="yellow-box-2-content">
-				<a href="http://sakib.localhost/?page_id=286" id="demo">
+				<a href="http://sakib.localhost/?page_id=286">
 					<div class="yellow-box-2-content-title-1">
 						<?php $post_id = 109; 
 						$queried_post = get_post($post_id); 
@@ -64,6 +67,7 @@ Template Name: caohagan
 		<div class="fiveimg"></div>
 		<div class="siximg"></div>
 		<div class="sevenimg"></div>
+		<!-- here is fig-1  html -->
 		<div class="fig-one-img">
 			<div class="fig-one-img-title-1">
 				<?php $post_id = 18; 
@@ -131,6 +135,7 @@ Template Name: caohagan
 			<img class="fig-one-img-2" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-one-img-2.png" alt="">
 			<img class="fig-one-img-3" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-one-img-3.png" alt="">
 		</div>
+		<!-- here is fig-2  html -->
 		<div class="fig-two-img">
 			<div class="fig-two-img-title-1">
 				<?php $post_id = 47; 
@@ -171,6 +176,7 @@ Template Name: caohagan
 			<img class="fig-two-img-3" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-two-img-3.png" alt="">
 		</div>
 		<div class="eightimg"></div>
+		<!-- here is fig-2  html -->
 		<div class="fig-three-img">
 			<div class="fig-three-img-title-1">
 				<?php $post_id = 60; 
@@ -191,37 +197,37 @@ Template Name: caohagan
 				<?php $post_id = 66; 
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/><hr>
-				<a href="#">
+				<a href="http://sakib.localhost/?page_id=857">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 68; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=913">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 70; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=925">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 72; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=944">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 73; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=958">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 74; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
-					<a href="#">
+					<a href="http://sakib.localhost/?page_id=988">
 						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 75; 
 						$queried_post = get_post($post_id); 
@@ -235,6 +241,7 @@ Template Name: caohagan
 		</div>
 		<div class="nineimg"></div>
 		<div class="tenimg"></div>
+		<!-- here is fig-4  html -->
 		<div class="fig-four-img">
 			<div class="fig-four-img-title-1">
 				<?php $post_id = 80; 
@@ -283,6 +290,7 @@ Template Name: caohagan
 		<div class="twilveimg"></div>
 		<div class="thirtenimg"></div>
 		<div class="fortinimg"></div>
+		<!-- here is fig-5  html -->
 		<div class="fig-five-img">
 			<div class="fig-five-img-title-1">
 				<?php $post_id = 95; 
@@ -324,14 +332,8 @@ Template Name: caohagan
 			<div class="cho2img"></div>
 		</div>
 	</section>
+	<!--.. here is my javascript links .. -->
 	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/jquery.js"></script>
-	<script type="text/javascript" >
-		$(document).ready(function(){
-				
-			
-		});
-			
-	</script>
-	
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/main1.js"></script>
 </body>
 </html>

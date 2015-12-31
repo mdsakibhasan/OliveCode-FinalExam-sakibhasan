@@ -11,13 +11,11 @@
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/fig-1-page-3.css" type="text/css">
 </head>
 <body>
-
-		<a href="http://sakib.localhost/" ><img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/cross.png" alt="yellow-box-2" style="margin-left: 93%;" ></a>
-
 	<div class="bag-img">
 		<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/newbackground.png">
 	</div>
-	<section>
+	<section style="margin-top: 50px;">
+		<a href="" id="btn" style="position: fixed; top:0; right: 40px;"><img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/cross.png" alt="yellow-box-2"></a>
 		<div class="fig-1-page-1-titel-1">
 			<?php $post_id = 358;
 			$queried_post = get_post($post_id); 
@@ -190,17 +188,9 @@
 			echo $queried_post->post_content;?>
 		</div><br>
 		
-		<div class="pdf-link-1"><a href="">→『CAOHAGAN2050』詳細[PDF]</a><div><br><br><br>
-		
-
-	<section>
-	<script src="http://code.jquery.com/jquery-latest.js"></script>
-	 <script>
-	 	 $(document).ready(function(){
-			$("#aaa").click(function(){
-					
-				});
-		 	});
-	</script>
+		<div class="pdf-link-1"><a href="">→『CAOHAGAN2050』詳細[PDF]</a><div>
+	</section>
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/jquery.js"></script>
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/main1.js"></script>
 </body>
 </html>

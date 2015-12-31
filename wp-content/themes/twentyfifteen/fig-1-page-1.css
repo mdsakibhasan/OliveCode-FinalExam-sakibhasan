@@ -6,6 +6,7 @@ body{
 section{
 	margin: 1% 30% 5% 19%;
 	position: absolute;
+	margin-top: 50px;
 }
 .bag-img{
 	width: 100%;
@@ -77,7 +78,6 @@ section{
 .fig-1-page-1-titel-4{
 	font-size: 14.5px;
 }
-
 .cross-img{
 	position: fixed;
 	top: 0px;

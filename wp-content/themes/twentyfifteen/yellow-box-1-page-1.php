@@ -11,13 +11,11 @@
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/yellow-box-1-page-1.css" type="text/css">
 </head>
 <body>
-
-		<a href="http://sakib.localhost/" ><img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/cross.png" alt="yellow-box-2" style="margin-left: 93%;" ></a>
-
 	<div class="bag-img">
 		<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/newbackground.png">
 	</div>
 	<section>
+		<a href="" id="btn" style="position: fixed; top:0; right: 40px;"><img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/cross.png" alt="yellow-box-2"></a>
 		<div class="yellow-box-1-page-title-1">
 			<?php $post_id = 145;
 			$queried_post = get_post($post_id); 
@@ -87,13 +85,8 @@
 				echo $queried_post->post_content;?>
 			</a>
 		</div>
-
-		
-
-	<section>
-	<script src="http://code.jquery.com/jquery-latest.js"></script>
-	 <script>
-	 	 
-	</script>
+	</section>
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/jquery.js"></script>
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/main1.js"></script>
 </body>
 </html>

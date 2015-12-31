@@ -1,0 +1,133 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin: 0 auto;
+	overflow-y: scroll;
+}
+section{
+	margin: 1% 30% 5% 19%;
+	position: absolute;
+	margin-top: 50px;
+}
+.bag-img{
+	width: 100%;
+    height: 100%;
+    position: fixed;
+    opacity: 0.5%;
+    opacity: 0.035;
+}
+.fig-3-page-1-titel-1{
+	font-size: 36px;
+    font-family: tahoma;
+    font-style: normal;
+}
+.hrs{
+	width: 804px;
+    margin-top: -5px;
+}
+.fig-3-page-1-alllink-1>a{
+	text-decoration: none;
+	color: black;
+}
+.fig-3-page-1-alllink-2{
+	margin-left: 152px;
+    margin-top: -25px;
+}
+.fig-3-page-1-alllink-2>a{
+	color:black;
+	text-decoration: none;
+}
+.fig-3-page-1-alllink-3{
+	margin-left: 297px;
+    margin-top: -25px;
+}
+.fig-3-page-1-alllink-3>a{
+	color: black;
+	text-decoration: none;
+}
+.fig-3-page-1-alllink-4{
+    margin-left: 396px;
+    margin-top: -25px;
+}
+.fig-3-page-1-alllink-4>a{
+	color: black;
+	text-decoration: none;
+}
+.fig-3-page-1-alllink-5{
+    margin-left: 495px;
+    margin-top: -25px;
+}
+.fig-3-page-1-alllink-5>a{
+	color: black;
+	text-decoration: none;
+}
+.fig-3-page-1-alllink-6{
+	margin-left: 630px;
+    margin-top: -25px;
+}
+.fig-3-page-1-alllink-6>a{
+	color: black;
+	text-decoration: none;
+	background: yellow;
+}
+.fig-3-page-6-titel-2{
+	font-size: 19px;
+	font-weight: bold;
+}
+.fig-3-page-6-titel-3,
+.fig-3-page-6-titel-6,
+.fig-3-page-6-titel-8,
+.fig-3-page-6-titel-10,
+.fig-3-page-6-titel-12,
+.fig-3-page-6-titel-14,
+.fig-3-page-6-titel-16,
+.fig-3-page-6-titel-18,
+.fig-3-page-6-titel-20,
+.fig-3-page-6-titel-22,
+.fig-3-page-6-titel-24,
+.fig-3-page-6-titel-26,
+.fig-3-page-6-titel-28,
+.fig-3-page-6-titel-30,
+.fig-3-page-6-titel-32,
+.fig-3-page-6-titel-34,
+.fig-3-page-6-titel-36{
+	font-size: 13.5px;
+	font-weight: bold;
+}
+.fig-3-page-6-titel-4,
+.fig-3-page-6-titel-7,
+.fig-3-page-6-titel-9,
+.fig-3-page-6-titel-11,
+.fig-3-page-6-titel-13,
+.fig-3-page-6-titel-15,
+.fig-3-page-6-titel-17,
+.fig-3-page-6-titel-19,
+.fig-3-page-6-titel-21,
+.fig-3-page-6-titel-23,
+.fig-3-page-6-titel-25,
+.fig-3-page-6-titel-27,
+.fig-3-page-6-titel-29,
+.fig-3-page-6-titel-31,
+.fig-3-page-6-titel-33,
+.fig-3-page-6-titel-35,
+.fig-3-page-6-titel-37,
+.fig-3-page-6-titel-38{
+	font-size: 15px;
+}
+.fig-3-page-6-titel-33>a,.fig-3-page-6-titel-38>a{
+	color:#C00;
+}
+.fig-3-page-6-titel-33>a:hover,.fig-3-page-6-titel-38>a:hover{
+	color:#F90;
+}
+.fig-3-page-6-titel-5>a{
+	font-size: 13px;
+	color: #C00;
+}
+.fig-3-page-6-titel-5>a:hover{
+	color: #F90;
+}
+.cross-img{
+	position: fixed;
+	top: 0px;
+	right: 3%;
+}

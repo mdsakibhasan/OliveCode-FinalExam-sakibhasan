@@ -4,8 +4,9 @@ body{
 	overflow-y: scroll;
 }
 section{
-	margin: 1% 30% 5% 19%;
+	margin: 50px 30% 5% 19%;
 	position: absolute;
+	margin-top: 50px;
 }
 .bag-img{
 	width: 100%;
