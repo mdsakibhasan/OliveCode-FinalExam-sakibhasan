@@ -14,8 +14,8 @@ Template Name: caohagan
 <body>
 	<section>
 		<!--.. here is start my body section .. -->
-		<img class="oneimg" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/oneimg.png" alt="">
-		<img class="twoimg" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/twoimg.png" alt="">
+		<img class="oneimg" src="/wp-content/themes/twentyfifteen/images/oneimg.png" alt="">
+		<img class="twoimg" src="/wp-content/themes/twentyfifteen/images/twoimg.png" alt="">
 		<div id="threeimg"></div>
 		<div class="fourimg"></div>
 		<!-- here is yellow box 1 html -->
@@ -39,7 +39,7 @@ Template Name: caohagan
 					</div>
 				</a>
 			</div>
-			<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png" alt="yellow-box-1">
+			<img src="/wp-content/themes/twentyfifteen/images/arrow1.png" alt="yellow-box-1">
 		</div>
 		<!-- here is yellow box 2 html -->
 		<div class="yellow-box-2">
@@ -62,7 +62,7 @@ Template Name: caohagan
 					</div>
 				</a>
 			</div>
-			<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow2.png" alt="yellow-box-2">
+			<img src="/wp-content/themes/twentyfifteen/images/arrow2.png" alt="yellow-box-2">
 		</div>
 		<div class="fiveimg"></div>
 		<div class="siximg"></div>
@@ -89,51 +89,51 @@ Template Name: caohagan
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?>
 			</div>
-			<img class="fig-one-img-1" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-one-img-1.png" alt="">
+			<img class="fig-one-img-1" src="/wp-content/themes/twentyfifteen/images/fig-one-img-1.png" alt="">
 			<div class="fig-one-img-content-3">
 				<?php $post_id = 30; 
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/><hr>
 					<a href="http://sakib.localhost/?page_id=356" >
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 32; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=374">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 36; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
 					<a href="http://sakib.localhost/?page_id=510">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 38; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=573">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 40; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
 					<a href="http://sakib.localhost/?page_id=627">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 42; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=637">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 44; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 			</div>
-			<img class="fig01img" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig01img.png" alt="">
-			<img class="fig-one-img-2" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-one-img-2.png" alt="">
-			<img class="fig-one-img-3" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-one-img-3.png" alt="">
+			<img class="fig01img" src="/wp-content/themes/twentyfifteen/images/fig01img.png" alt="">
+			<img class="fig-one-img-2" src="/wp-content/themes/twentyfifteen/images/fig-one-img-2.png" alt="">
+			<img class="fig-one-img-3" src="/wp-content/themes/twentyfifteen/images/fig-one-img-3.png" alt="">
 		</div>
 		<!-- here is fig-2  html -->
 		<div class="fig-two-img">
@@ -152,28 +152,28 @@ Template Name: caohagan
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/><hr>
 					<a href="http://sakib.localhost/?page_id=691">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 53; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=712">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 55; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=741">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 57; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 			</div>
 			
-			<img class="fig-two-img-1" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-two-img-1.png" alt="">
-			<img class="fig02img" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig02img.png" alt="">
-			<img class="fig-two-img-3" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-two-img-3.png" alt="">
+			<img class="fig-two-img-1" src="/wp-content/themes/twentyfifteen/images/fig-two-img-1.png" alt="">
+			<img class="fig02img" src="/wp-content/themes/twentyfifteen/images/fig02img.png" alt="">
+			<img class="fig-two-img-3" src="/wp-content/themes/twentyfifteen/images/fig-two-img-3.png" alt="">
 		</div>
 		<div class="eightimg"></div>
 		<!-- here is fig-2  html -->
@@ -198,46 +198,46 @@ Template Name: caohagan
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/><hr>
 				<a href="http://sakib.localhost/?page_id=857">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 68; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=913">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 70; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
 					<a href="http://sakib.localhost/?page_id=925">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 72; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=944">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 73; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=958">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 74; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
 					<a href="http://sakib.localhost/?page_id=988">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 75; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 			</div>
-			<img class="fig-three-img-1" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-three-img-1.png" alt="">
-			<img class="fig03img" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig03img.png" alt="">
-			<img class="fig-three-img-2" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-three-img-2.png" alt="">
-			<img class="fig-three-img-3" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-three-img-3.png" alt="">
+			<img class="fig-three-img-1" src="/wp-content/themes/twentyfifteen/images/fig-three-img-1.png" alt="">
+			<img class="fig03img" src="/wp-content/themes/twentyfifteen/images/fig03img.png" alt="">
+			<img class="fig-three-img-2" src="/wp-content/themes/twentyfifteen/images/fig-three-img-2.png" alt="">
+			<img class="fig-three-img-3" src="/wp-content/themes/twentyfifteen/images/fig-three-img-3.png" alt="">
 		</div>
 		<div class="nineimg"></div>
 		<div class="tenimg"></div>
@@ -263,28 +263,28 @@ Template Name: caohagan
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/></br><hr><br/>
 					<a href="http://sakib.localhost/?page_id=745">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 89; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 					<a href="http://sakib.localhost/?page_id=827">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 91; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a><br/>
 					<a href="http://sakib.localhost/?page_id=843">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow1.png"/>
+						<img src="/wp-content/themes/twentyfifteen/images/arrow1.png"/>
 						<?php $post_id = 92; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 					</a>
 			</div>
-			<img class="fig-four-img-1" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-four-img-1.png" alt="">
-			<img class="fig04img" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig04img.png" alt="">
-			<img class="fig-four-img-2" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-four-img-2.png" alt="">
-			<img class="fig-four-img-3" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-four-img-3.png" alt="">
+			<img class="fig-four-img-1" src="/wp-content/themes/twentyfifteen/images/fig-four-img-1.png" alt="">
+			<img class="fig04img" src="/wp-content/themes/twentyfifteen/images/fig04img.png" alt="">
+			<img class="fig-four-img-2" src="/wp-content/themes/twentyfifteen/images/fig-four-img-2.png" alt="">
+			<img class="fig-four-img-3" src="/wp-content/themes/twentyfifteen/images/fig-four-img-3.png" alt="">
 		</div>
 		<div class="elevenimg"></div>
 		<div class="twilveimg"></div>
@@ -312,16 +312,16 @@ Template Name: caohagan
 				$queried_post = get_post($post_id); 
 				echo $queried_post->post_content;?><br/><br/>
 				<a href="http://sakib.localhost/?page_id=143">
-						<img src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/arrow-blue.png"/ style="margin-top:3px;">
+						<img src="/wp-content/themes/twentyfifteen/images/arrow-blue.png"/ style="margin-top:3px;">
 						<?php $post_id = 103; 
 						$queried_post = get_post($post_id); 
 						echo $queried_post->post_content;?>
 				</a>
 			</div>
-			<img class="fig-five-img-1" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-five-img-1.png" alt="">
-			<img class="fig05img" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig05img.png" alt="">
-			<img class="fig-five-img-2" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-five-img-2.png" alt="">
-			<img class="fig-five-img-3" src="http://sakib.localhost/wp-content/themes/twentyfifteen/images/fig-five-img-3.png" alt="">
+			<img class="fig-five-img-1" src="/wp-content/themes/twentyfifteen/images/fig-five-img-1.png" alt="">
+			<img class="fig05img" src="/wp-content/themes/twentyfifteen/images/fig05img.png" alt="">
+			<img class="fig-five-img-2" src="/wp-content/themes/twentyfifteen/images/fig-five-img-2.png" alt="">
+			<img class="fig-five-img-3" src="/wp-content/themes/twentyfifteen/images/fig-five-img-3.png" alt="">
 		</div>
 		<div class="fiftenimg"></div>
 		<div class="footerimg">
