@@ -1,4 +1,3 @@
-
 $('a').click(function(){
 	var page= $(this).attr('href');
 	$('html').load(page).fadeIn(5000);

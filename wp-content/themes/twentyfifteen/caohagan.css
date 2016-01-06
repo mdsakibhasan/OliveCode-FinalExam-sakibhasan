@@ -2,7 +2,7 @@
 /*..here is start from my css coding..*/
 body{
 	margin: 0 auto;
-	background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/background.jpg");
+	background-image: url("/wp-content/themes/twentyfifteen/images/background.jpg");
 	background-repeat: no-repeat;
 	position: relative;
 	background-position: center top;
@@ -27,7 +27,7 @@ body{
     position: absolute;
     top: 300px;
     left: 297px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/threeimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/threeimg.jpg");
     background-size: 374px 253px;
     background-position: center top;
 }
@@ -39,7 +39,7 @@ body{
     position: absolute;
     top: 560px;
     left: 387px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fourimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/fourimg.jpg");
     background-size: 240px 180px;
     background-position: center top;
 }
@@ -133,7 +133,7 @@ body{
     position: absolute;
     top: 750px;
     left: 637px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
     background-size: 311px 215px;
     z-index: 1;
     background-position: center top;
@@ -146,7 +146,7 @@ body{
     position: absolute;
     top: 855px;
     left: 400px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/siximg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/siximg.jpg");
     background-size: 410px 720px;
    	-moz-background-position: 643px 564px;
 }
@@ -158,7 +158,7 @@ body{
     position: absolute;
     top: 1050px;
     right: 590px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/sevenimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/sevenimg.jpg");
     background-size: 475px 325px;
     z-index: 1;
 }
@@ -326,7 +326,7 @@ body{
     position: absolute;
     top: 1285px;
     right: 0px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/eightimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/eightimg.png");
     z-index: -1;
 }
 /*here is fig-3 css*/
@@ -420,7 +420,7 @@ body{
     position: absolute;
 	top: 1900px;
     left: 279px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/nineimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/nineimg.jpg");
     background-size: 488px 335px;
 }
 .tenimg{
@@ -431,7 +431,7 @@ body{
     position: absolute;
     top: 2055px;
     left: 544px;;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/tenimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/tenimg.jpg");
     background-size: 476px 689px;
 }
 /*here is fig-4 css*/
@@ -523,7 +523,7 @@ body{
     position: absolute;
 	top: 2515px;
     left: 844px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/11img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/11img.jpg");
     background-size: 519px 679px;
 }
 .twilveimg{
@@ -534,7 +534,7 @@ body{
     position: absolute;
 	top: 2664px;
     left: 1028px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/12img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/12img.jpg");
     background-size: 488px 335px;
 }
 .thirtenimg{
@@ -545,7 +545,7 @@ body{
     position: absolute;
 	top: 2960px;
     left: 397px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/13img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/13img.jpg");
     background-size: 519px 679px;
     z-index: 5;
 }
@@ -557,7 +557,7 @@ body{
     position: absolute;
 	top: 3260px;
     left: 537px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/14img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/14img.jpg");
     background-size: 488px 677px;
     z-index: 6;
 }
@@ -646,14 +646,14 @@ body{
     position: absolute;
     top: 3113px;
     left: -139px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/15img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/15img.png");
     z-index: 4;
 }
 .footerimg{
 	height: 600px;
     bottom: -330px;
     left: -290px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/footerimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/footerimg.png");
     z-index: -5;
     margin-top: -280px;
     margin-left: -282px;
@@ -663,7 +663,7 @@ body{
     height: 197px;
     position: absolute;
     left: 955px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/treeimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/treeimg.png");
 }
 .bird1pic{
 	width: 120px;
@@ -671,7 +671,7 @@ body{
     position: absolute;
     left: 418px;
     bottom: 259px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/bird1pic.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/bird1pic.png");
 }
 .bird2pic{
 	width: 118px;
@@ -679,7 +679,7 @@ body{
     position: absolute;
     left: 971px;
     bottom: 89px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/bird2pic.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/bird2pic.png");
 }
 .cho1img{
 	width: 344px;
@@ -687,7 +687,7 @@ body{
     position: absolute;
     left: 525px;
     bottom: 151px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho1img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/cho1img.png");
 }
 .cho2img{
 	width: 280px;
@@ -695,7 +695,7 @@ body{
     position: absolute;
     left: 559px;
     bottom: 50px;
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho2img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/cho2img.png");
 }
 #btn1{
 	position: fixed;
@@ -742,7 +742,7 @@ and (max-width : 1024px) {
     width: 71%;
 }
 #threeimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/threeimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/threeimg.jpg");
     background-position: center top;
     background-size: 295px 197px;
     border-radius: 50%;
@@ -792,7 +792,7 @@ and (max-width : 1024px) {
     text-align: left;
 }
 .fourimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fourimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/fourimg.jpg");
     background-position: center top;
     background-size: 240px 180px;
     border-radius: 50%;
@@ -804,7 +804,7 @@ and (max-width : 1024px) {
     width: 155px;
 }
 .siximg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/siximg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/siximg.jpg");
     background-size: 410px 720px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -815,7 +815,7 @@ and (max-width : 1024px) {
     width: 165px;
 }
 .fiveimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
     background-position: center top;
     background-size: 311px 215px;
     border-radius: 50%;
@@ -828,7 +828,7 @@ and (max-width : 1024px) {
     z-index: 1;
 }
 .sevenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/sevenimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/sevenimg.jpg");
     background-size: 475px 325px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -979,7 +979,7 @@ and (max-width : 1024px) {
     z-index: 1;
 }
 .eightimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/eightimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/eightimg.png");
     height: 689px;
     position: absolute;
     right: 4px;
@@ -1142,7 +1142,7 @@ and (max-width : 1024px) {
     position: absolute;
 }
 .elevenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/11img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/11img.jpg");
     background-size: 519px 679px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1153,7 +1153,7 @@ and (max-width : 1024px) {
     width: 165px;
 }
 .twilveimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/12img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/12img.jpg");
     background-size: 488px 335px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1164,7 +1164,7 @@ and (max-width : 1024px) {
     width: 145px;
 }
 .thirtenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/13img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/13img.jpg");
     background-size: 519px 679px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1176,7 +1176,7 @@ and (max-width : 1024px) {
     z-index: 5;
 }
 .fortinimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/14img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/14img.jpg");
     background-size: 488px 677px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1188,7 +1188,7 @@ and (max-width : 1024px) {
     z-index: 6;
 }
 .fiftenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/15img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/15img.png");
     background-position: left center;
     height: 542px;
     left: -371px;
@@ -1267,7 +1267,7 @@ and (max-width : 1024px) {
     z-index: 1;
 }
 .footerimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/footerimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/footerimg.png");
     bottom: -333px;
     height: 730px;
     left: -265px;
@@ -1276,7 +1276,7 @@ and (max-width : 1024px) {
     z-index: -5;
 }
 .bird1pic {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/bird1pic.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/bird1pic.png");
     bottom: 374px;
     height: 112px;
     left: 114px;
@@ -1285,7 +1285,7 @@ and (max-width : 1024px) {
     width: 120px;
 }
 .cho1img {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho1img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/cho1img.png");
     bottom: 234px;
     height: 75px;
     left: 214px;
@@ -1293,7 +1293,7 @@ and (max-width : 1024px) {
     width: 344px;
 }
 .cho2img {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho2img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/cho2img.png");
     bottom: 86px;
     height: 10px;
     left: 251px;
@@ -1302,7 +1302,7 @@ and (max-width : 1024px) {
 }
 
 .bird2pic {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/bird2pic.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/bird2pic.png");
     bottom: 114px;
     height: 101px;
     left: 582px;
@@ -1310,7 +1310,7 @@ and (max-width : 1024px) {
     width: 118px;
 }
 .treeimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/treeimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/treeimg.png");
     bottom: 417px;
     height: 197px;
     left: 562px;
@@ -1402,7 +1402,7 @@ and (max-width : 480px) {
     width: 75%;
 }
 #threeimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/threeimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/threeimg.jpg");
     background-position: center top;
     background-size: 374px 253px;
     border-radius: 50%;
@@ -1414,7 +1414,7 @@ and (max-width : 480px) {
     width: 100px;
 }
 .fourimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fourimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/fourimg.jpg");
     background-position: center top;
     background-size: 240px 180px;
     border-radius: 50%;
@@ -1460,7 +1460,7 @@ and (max-width : 480px) {
     top: 111px;
 }
 .fiveimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
     background-position: center top;
     background-size: 311px 215px;
     border-radius: 50%;
@@ -1473,7 +1473,7 @@ and (max-width : 480px) {
     z-index: 1;
 }
 .sevenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/sevenimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/sevenimg.jpg");
     background-size: 475px 325px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1486,7 +1486,7 @@ and (max-width : 480px) {
     z-index: 1;
 }
 .siximg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/siximg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/siximg.jpg");
     background-size: 410px 720px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1497,7 +1497,7 @@ and (max-width : 480px) {
     width: 90px;
 }
 .eightimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/eightimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/eightimg.png");
     height: 690px;
     position: absolute;
     right: -552px;
@@ -1673,7 +1673,7 @@ and (max-width : 480px) {
     top: 97%;
 }
 .nineimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/nineimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/nineimg.jpg");
     background-size: 488px 335px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1684,7 +1684,7 @@ and (max-width : 480px) {
     width: 140px;
 }
 .tenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/tenimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/tenimg.jpg");
     background-size: 476px 689px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1771,7 +1771,7 @@ and (max-width : 480px) {
     z-index: 6;
 }
 .elevenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/11img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/11img.jpg");
     background-size: 519px 679px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1782,7 +1782,7 @@ and (max-width : 480px) {
     width: 145px;
 }
 .twilveimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/12img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/12img.jpg");
     background-size: 488px 335px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1868,7 +1868,7 @@ and (max-width : 480px) {
     z-index: 8;
 }
 .fiftenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/15img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/15img.png");
     height: 542px;
     left: -430px;
     position: absolute;
@@ -1877,7 +1877,7 @@ and (max-width : 480px) {
     z-index: 4;
 }
 .thirtenimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/13img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/13img.jpg");
     background-size: 519px 679px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1889,7 +1889,7 @@ and (max-width : 480px) {
     z-index: 9;
 }
 .fortinimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/14img.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/14img.jpg");
     background-size: 488px 677px;
     border-radius: 50%;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.498);
@@ -1981,7 +1981,7 @@ and (max-width : 480px) {
     z-index: 11;
 }
 .footerimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/footerimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/footerimg.png");
     bottom: -296px;
     height: 600px;
     left: -290px;
@@ -1990,7 +1990,7 @@ and (max-width : 480px) {
     z-index: -5;
 }
 .bird1pic {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/bird1pic.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/bird1pic.png");
     bottom: 3%;
     height: 112px;
     left: -7%;
@@ -1999,7 +1999,7 @@ and (max-width : 480px) {
     z-index: 12;
 }
 .treeimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/treeimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/treeimg.png");
     height: 197px;
     left: 59%;
     position: absolute;
@@ -2008,7 +2008,7 @@ and (max-width : 480px) {
     z-index: 12;
 }
 .cho1img {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho1img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/cho1img.png");
     bottom: 42px;
     height: 75px;
     left: 0;
@@ -2016,7 +2016,7 @@ and (max-width : 480px) {
     width: 344px;
 }
 .cho2img {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho2img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/cho2img.png");
     bottom: 17px;
     height: 10px;
     left: 8%;
@@ -2024,7 +2024,7 @@ and (max-width : 480px) {
     width: 280px;
 }
 .bird2pic {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/bird2pic.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/bird2pic.png");
     bottom: 89px;
     height: 101px;
     left: 69%;
@@ -2032,7 +2032,7 @@ and (max-width : 480px) {
     width: 118px;
 }
 .cho1img {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/cho1img.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/cho1img.png");
     bottom: 95px;
     height: 75px;
     left: 0;
@@ -2040,7 +2040,7 @@ and (max-width : 480px) {
     width: 344px;
 }
 .bird2pic {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/bird2pic.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/bird2pic.png");
     bottom: 21px;
     height: 101px;
     left: 69%;
@@ -2048,7 +2048,7 @@ and (max-width : 480px) {
     width: 118px;
 }
 .treeimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/treeimg.png");
+    background-image: url("/wp-content/themes/twentyfifteen/images/treeimg.png");
     height: 197px;
     left: 59%;
     position: absolute;
@@ -2057,7 +2057,7 @@ and (max-width : 480px) {
     z-index: 12;
 }
 .fiveimg {
-    background-image: url("http://sakib.localhost/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
+    background-image: url("/wp-content/themes/twentyfifteen/images/fiveimg.jpg");
     background-position: center top;
     background-size: 311px 215px;
     border-radius: 50%;
@@ -2071,4 +2071,3 @@ and (max-width : 480px) {
 }
 
 }
- 
